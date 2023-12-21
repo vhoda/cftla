@@ -1,0 +1,21 @@
+.botones{
+    background-color: #1F3D6E;
+    margin: 6px 0px 6px 0px; 
+    padding: 30px; 
+    line-height : 140%; 
+    color: #fff; 
+    border-width: 1px;
+    border-color: #fff;
+    
+}
+
+.botones:hover{
+    background-color: #F59F19;
+    color: #fff;
+}
+
+.imagen_index{
+    -webkit-box-shadow: 0px 0px 28px -7px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 28px -7px rgba(0,0,0,1);
+    box-shadow: 0px 0px 28px -7px rgba(0,0,0,1);
+}
